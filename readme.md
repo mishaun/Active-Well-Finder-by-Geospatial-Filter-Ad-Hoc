@@ -60,3 +60,7 @@ hbpwells["Well Potentially HBP Lease?"] = hbpwells.apply(lambda x: IswithinOneYe
 
 
 5. Export source table for creating Pivot Table in Excel for visualizing results
+
+Pivot Table Hierarchy
+
+![pivot table hierachry](Project-Quincy-Wells/Images/PivotTable_Heirarchy.png)
